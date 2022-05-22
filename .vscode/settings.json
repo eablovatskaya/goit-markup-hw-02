@@ -1,0 +1,7 @@
+{
+	"editor.wordWrapColumn": 180,
+	"diffEditor.wordWrap": "off",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.printWidth": 180,
+	"prettier.proseWrap": "never"
+}
